@@ -4,5 +4,5 @@ Utlização das ferramentas estatísticas de previsão e análise para um datase
 <h1 align="center">Vídeo explicativo: https://youtu.be/agG2jTvTxR4 </h1>
 
 
-Fontes: https://scikit-learn.org/stable/, https://pandas.pydata.org/, https://numpy.org/, https://matplotlib.org/
+Fontes: https://scikit-learn.org/stable/, https://pandas.pydata.org/, https://numpy.org/, https://matplotlib.org/, https://www.kaggle.com/search
 
